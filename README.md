@@ -1,5 +1,5 @@
 # Wifi-attacker
-This code will be scan  your protion available wifi scan them next it will  start  the work....
+This code will be scan your portion available Wi-Fi scan then next it will start the work....
 # Benefits
  First of all this code run need to be an internet conected system & if your near any wifi is show in your system but you dont know this wifi password then you help of this code and break the password of that wifi
  # working process
